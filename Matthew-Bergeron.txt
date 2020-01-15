@@ -72,7 +72,8 @@ Codepen html: https://codepen.io/ranar0k/pen/YzPjpWK?editors=1100
 	- We can select the p element of class human with the syntax p.human {} .
 
     22. What is a parent child selector? When would this be useful? 
-	-
+	- A parent childd selector is when you select elements that have specific elements that can effect them down stream of the code. This is useful when you're
+	  tryting to select specific elements that are a part of a greater element, but when you want to exclude others, such as decendents of an element past the child. 
 
     23. How do you select all links within a div with the class of sidebar?
 	-
