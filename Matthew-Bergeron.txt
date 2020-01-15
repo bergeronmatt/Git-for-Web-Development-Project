@@ -24,35 +24,97 @@ Codepen html: https://codepen.io/ranar0k/pen/YzPjpWK?editors=1100
 	- Two tags that have required attributes are input and form.
 
     6. What do we put in the head of our HTML document? 
-	-
+	- The <head> tag to represent the head section of the html document that can hold the metadata.
+
     7. What is an id? 
+	- An id is a tag that gives a definition attribute for an html element that can be accesses and altered later, such as through CSS.
+
     8. What elements can I add an id to? 
+	- You can add various element to an id, such as color, spacing, and even linking elements.
+
     9. How many times can I use the same id on a page? 
+	- The same id should only be used once for each page.
+
     10. What is a class? 
+	- The class is an attribute which specifies one or more class names for an HTML element.
+
     11. What elements can I add a class to? 
+	- Various elements, like color and dimensions, can be added to a class.
+
     12. How many times can I use the same class on a page? 
+	- There is no limit to the use of a same class on a page, but it is not recommended.
+
     13. How do I get my link to open in a new tab?
+	- You can add the target="_blank" attribute to the links in the page.
+
     14. What is the alt attribute used for? 
+	- It can specify an alternate text for an image if the image cannot be displayed for some reason.
+
     15. How do I reference an id?
+	- You can reference an id with the # symbol before the id attribute.
+
     16. What is the difference between a section and a div
+	- A section defines sections in a document, such as chapters, header, or footers, while the div tag defines divisions, which can be within a section, of a page.
+
     17. What is CSS used for? 
+	- CSS is used for adding style to the page, such as color, dimension, and changes in the appearance of the page.
+
     18. How to we select an element? Example - every h2 on the page
+	- We can select every h2 in the CSS section by using the h2{} syntax in order to affect all h2 elements. 
+
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+	- The difference between a class and an id is that an id can be used to identify one element, whereas a class can be used to identify one or than one element.
+
     20. How do we select classes in CSS?
+	- We can select classes in CSS we add the "." prior to the class identifier.
+
     21. How do we select a p element with a single class of “human””?
+	- We can select the p element of class human with the syntax p.human {} .
+
     22. What is a parent child selector? When would this be useful? 
+	-
+
     23. How do you select all links within a div with the class of sidebar?
+	-
+
     24. What is a pseudo selector?
+	-
+
     25. What do we use the change the spacing between lines?
+	-
+
     26. What do we use to change the spacing between letters?
+	-
+
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+	-
+
     28. How do I add a 1px border around my div that is dotted and black?
-    29. How do I select everything on the page? 
+	-
+
+    29. How do I select everything on the page?
+	-
+ 
     30. How do I write a comment in CSS?
+	-
+
     31. How do I find out what file I am in, when I am using the command line? 
+	-
+
     32. Using the command line - how do I see a list of files/folders in my current folder?
+	-
+
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+	-
+
     34. Why should I use version control? 
+	-
+
     35. How often should I commit to github?
+	-
+
     36. What is the command we would use to push our repo up to github? 
+	-
+
     37. Walk me through Lambda's git flow. 
+	-
